@@ -1,4 +1,4 @@
-import { Aichecimatec } from '../Components/aiche'
+import { Aichecimatec } from '../components/aiche'
 
 export default function Aichepage() {
   

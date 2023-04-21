@@ -1,4 +1,4 @@
-import { Contacts } from '../Components/contacts'
+import { Contacts } from '../components/contacts'
 
 export default function Contatos() {
   

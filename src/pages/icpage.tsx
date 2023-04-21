@@ -1,4 +1,4 @@
-import { IC } from '../Components/ic'
+import { IC } from '../components/ic'
 
 export default function Icpage() {
   
