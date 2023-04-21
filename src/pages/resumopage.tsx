@@ -1,4 +1,4 @@
-import { Resumo } from '../components/resumo'
+import { Resumo } from '../Components/resumo'
 
 export default function Resumopage() {
   

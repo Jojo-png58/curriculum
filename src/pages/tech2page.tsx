@@ -1,4 +1,4 @@
-import { Tech2 } from '../components/tech2'
+import { Tech2 } from '../Components/tech2'
 
 export default function Tech2page() {
   

@@ -1,4 +1,4 @@
-import { Cimatecjr } from '../components/cimatecjr'
+import { Cimatecjr } from '../Components/cimatecjr'
 
 export default function Cimatecjrpage() {
   

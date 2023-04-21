@@ -1,4 +1,4 @@
-import { Library } from '../components/library'
+import { Library } from '../Components/library'
 
 export default function Biblioteca() {
   
