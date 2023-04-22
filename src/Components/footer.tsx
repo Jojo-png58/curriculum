@@ -2,7 +2,7 @@ import {Shuffle, Play, SkipBack, SkipForward, Repeat, Mic2, LayoutList, Laptop2,
 
 export function Footer() {
     return (
-        <footer className="sticky bottom-0 bg-zinc-800 border-t border-zinc-700 p-3 flex items-center justify-between">
+        <footer className="sticky bottom-0 right-0 bg-zinc-800 border-t border-zinc-700 p-3 flex items-center justify-between">
         <div className='flex items-center gap-3'>
         <img src="/profile-spotify.png" width={56} height={56} alt="Foto profile" />
         <div className='flex flex-col'>
