@@ -15,7 +15,7 @@ export function Main() {
     <h1 className='font-bold text-2xl md:text-4xl mt-6'>
       Bem-vindo ao meu currículo
     </h1>
-    <span className='text-xs text-zinc-400 text-justify'>
+    <span className='md:hidden text-xs text-zinc-400 text-justify'>
       Versão mobile ainda está limitada, por favor utilize a versão desktop.
     </span>
 
