@@ -4,26 +4,26 @@ import Link from 'next/link'
 export function Sidebar(){
     return(
         <div>
-            <aside className="fixed w-18 md:w-72 h-full bg-zinc-950 py-60 px-4 md:py-6 md:px-6">
-                <div className='hidden md:flex items-center gap-2'>
+            <aside className="fixed w-18 md:w-72 h-full bg-zinc-950 py-6 px-4 md:py-6 md:px-6">
+                <div className='md:flex items-center gap-2 space-y-1 md:space-y-0'>
                     <div className='w-3 h-3 bg-red-500 rounded-full'/>
                     <div className='w-3 h-3 bg-yellow-500 rounded-full'/>
                     <div className='w-3 h-3 bg-green-500 rounded-full'/>
                 </div>
-                <nav className='space-y-20 md:space-y-5 mt-10'>
+                <nav className='space-y-20 md:space-y-5 mt-96 md:mt-10'>
                     <Link href="/" className='flex items-center gap-3 text-sn font-semibold text-zinc-200 hover:text-zinc-400'>
                     <HomeIcon />
                     <p className='hidden md:flex'>Início</p>
                     </Link>
-                    <Link href="" className='flex items-center gap-3 text-sn font-semibold text-zinc-200 hover:text-zinc-400'>
+                    <Link href="" className='hidden md:flex items-center gap-3 text-sn font-semibold text-zinc-200 hover:text-zinc-400'>
                     <Search />
                     <p className='hidden md:flex'>Buscar</p>
                     </Link>
-                    <Link href="/biblioteca"className='flex items-center gap-3 text-sn font-semibold text-zinc-200 hover:text-zinc-400'>
+                    <Link href="/biblioteca"className='hidden md:flex items-center gap-3 text-sn font-semibold text-zinc-200 hover:text-zinc-400'>
                     <Library />
                     <p className='hidden md:flex'>Minha biblioteca</p>
                     </Link>
-                    <Link href="/contatos"className='flex items-center gap-3 text-sn font-semibold text-zinc-200 hover:text-zinc-400'>
+                    <Link href="/contatos"className='hidden md:flex items-center gap-3 text-sn font-semibold text-zinc-200 hover:text-zinc-400'>
                     <Contact />
                     <p className='hidden md:flex'>Contatos</p>
                     </Link>
