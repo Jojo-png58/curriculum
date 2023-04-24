@@ -4,13 +4,13 @@ import Link from 'next/link'
 export function Sidebar(){
     return(
         <div>
-            <aside className="fixed w-18 md:w-72 h-full bg-zinc-950 py-6 px-4 md:py-6 md:px-6">
-                <div className='md:flex items-center gap-2 space-y-1 md:space-y-0'>
+            <aside className="hidden md:block md:fixed w-72 h-full bg-zinc-950 p-6">
+                <div className='md:flex items-center gap-2 md:space-y-0'>
                     <div className='w-3 h-3 bg-red-500 rounded-full'/>
                     <div className='w-3 h-3 bg-yellow-500 rounded-full'/>
                     <div className='w-3 h-3 bg-green-500 rounded-full'/>
                 </div>
-                <nav className='space-y-20 md:space-y-5 mt-96 md:mt-10'>
+                <nav className='md:space-y-5 md:mt-10'>
                     <Link href="/" className='flex items-center gap-3 text-sn font-semibold text-zinc-200 hover:text-zinc-400'>
                     <HomeIcon />
                     <p className='hidden md:flex'>Início</p>

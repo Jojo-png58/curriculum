@@ -11,7 +11,7 @@ export function Aichecimatec(){
                 <ChevronRight />
             </button>
             </div>
-            <h1 className='font-bold text-4xl mt-6'>
+            <h1>
                 Experiência no capitulo estudantil AIChE CIMATEC
             </h1>
         </main>
