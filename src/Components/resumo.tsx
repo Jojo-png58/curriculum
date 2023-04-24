@@ -37,9 +37,18 @@ export function Resumo(){
                 <div>- Gestão de Pessoas</div>
                 <div>- Gestão Financeira</div>
                 <div>- Planejamento Estratégico</div>
+                <div>- Illustrator e Figma</div>
                 </div>
             </div>
-
+            <div className='grid items-center gap-4 mt-4 bg-zinc-800 p-4 rounded-2xl'>
+                <h1 className='font-bold text-2xl'>Atividades Complementares</h1>
+                <div className='font-semibold text-lg'>Capítulo Estudantil AIChE CIMATEC (2021-2023)</div>
+                <div className='text-justify'>Experiência em diferentes áreas no capítulo estudantil, incluindo Recursos Humanos, Marketing, Eventos e Competições. Destacou-se em Marketing, adquirindo habilidades em design gráfico utilizando o Illustrator. Participou de eventos internacionais, trabalhando com estudantes do Texas e da Índia e aprimorando suas habilidades em inglês. Atualmente, participa da prestigiada Chem-e-Car Competition, onde utiliza suas habilidades em modelagem e fabricação para desenvolver um carro movido por reação química.</div>
+                <div className='font-semibold text-lg'>Tec H2 Racing (2023)</div>
+                <div className='text-justify'>Atualmente, integro a equipe Fórmula SAE H2 Challenge do SENAI CIMATEC, na qual estamos empenhados no desenvolvimento de um carro movido a hidrogênio. Durante o processo, temos diversos setores, tais como eletrônica, suspensão, chassi e manufatura. Estamos nos preparando para enfrentar esse desafio nacional em diversas modalidades da competição em São Paulo.</div>
+                <div className='font-semibold text-lg'>Iniciação Científica (2023)</div>
+                <div className='text-justify'>Sou bolsista de iniciação científica na área de logística, com foco na análise de redes marítimas da América do Sul e América do Norte por meio do método de Redes Complexas. Durante esse período, adquiri valiosa experiência no mundo acadêmico, tanto em termos de pensamento crítico quanto em escrita científica. Até o momento, já tivemos a satisfação de publicar 9 artigos em revistas de grande impacto, e seguimos trabalhando em novos projetos de pesquisa para o futuro.</div>            
+            </div>
         </main>
     )
 }

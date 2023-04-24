@@ -12,7 +12,7 @@ export function Cimatecjr(){
             </button>
             </div>
             <div>
-                Experiência na empresa júnior CIMATEC jr
+                Em breve
             </div>
         </main>
     )

@@ -12,7 +12,7 @@ export function IC(){
             </button>
             </div>
             <div>
-                Experiência na Iniciação Científica do SENAI CIMATEC
+                Em breve
             </div>
         </main>
     )

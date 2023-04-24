@@ -12,7 +12,7 @@ export function Contacts(){
             </button>
             </div>
             <div>
-                Contatos
+                Em breve
             </div>
         </main>
     )

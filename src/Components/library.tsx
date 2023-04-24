@@ -12,7 +12,7 @@ export function Library(){
             </button>
             </div>
             <div>
-                Minha biblioteca
+                Em breve
             </div>
         </main>
     )

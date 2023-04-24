@@ -12,7 +12,7 @@ export function Aichecimatec(){
             </button>
             </div>
             <h1>
-                Experiência no capitulo estudantil AIChE CIMATEC
+                Em breve
             </h1>
         </main>
     )

@@ -12,7 +12,7 @@ export function Tech2(){
             </button>
             </div>
             <div>
-                Experiência na competição Formula SAE H2 Challenge
+                Em breve
             </div>
         </main>
     )
