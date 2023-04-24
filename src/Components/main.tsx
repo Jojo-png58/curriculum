@@ -21,7 +21,7 @@ export function Main() {
 
     <div className='grid mt-4'>
       <div className='bg-white/10 rounded-xl items-center gap-4 overflow-hidden md:flex'>
-        <img className='md:hidden' src="/profile-spotify.png" width={360} height={360} alt="Foto profile" />
+        <img className='md:hidden' src="/profile-spotify.png" width={380} height={380} alt="Foto profile" />
         <img className='hidden md:flex' src="/profile-spotify.png" width={360} height={360} alt="Foto profile" />
         <div className='flex flex-col justify-center space-y-5 mb-4 md:mb-0'>
           <strong className='text-white text-4xl font-bold hidden md:flex'>This is Jonata Souza dos Santos</strong>
