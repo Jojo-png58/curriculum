@@ -6,7 +6,7 @@ export default function Layout ({children}: any) {
         <div className='h-screen flex flex-col'>
             <div className="flex flex-1">
                 <Sidebar />
-                <main className='md:ml-72'>{children}</main>
+                <main className='xl:ml-72'>{children}</main>
             </div>
         <Footer />
     </div>
