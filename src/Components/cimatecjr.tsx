@@ -12,7 +12,7 @@ export function Cimatecjr(){
             </button>
             </div>
             <div>
-                Em breve
+                Em breve esta aba será dedicada em descrever melhor minhas experiências como membro, diretor e coordenador na CIMATEC jr.
             </div>
         </main>
     )

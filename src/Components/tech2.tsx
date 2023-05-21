@@ -12,7 +12,7 @@ export function Tech2(){
             </button>
             </div>
             <div>
-                Em breve
+                Em breve esta aba será dedicada em descrever minha experiência como atuante na administração da equipe Fórmula SAE H2 Challenge do SENAI CIMATEC.
             </div>
         </main>
     )

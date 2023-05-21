@@ -12,7 +12,7 @@ export function Aichecimatec(){
             </button>
             </div>
             <h1>
-                Em breve
+                Em breve esta aba será dedicada para descrever melhor minha experiência como designer, competidor e em projetos na AIChE CIMATEC.
             </h1>
         </main>
     )

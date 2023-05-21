@@ -12,7 +12,7 @@ export function IC(){
             </button>
             </div>
             <div>
-                Em breve
+                Em breve esta aba será dedicada em descrever minhas experiências, aprendizados e desafios adquiridos com minha iniciação ciêntífica no SENAI CIMATEC.
             </div>
         </main>
     )
